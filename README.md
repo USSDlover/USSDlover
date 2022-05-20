@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**USSDlover/USSDlover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+    My name is Alireza and I am passionate about programming.
+</p>
 
-Here are some ideas to get you started:
+<ul>
+    <li>🔭 I’m currently working on in depth concepts of web development</li>
+    <li>💬 Ask me about Angular and TypeScript</li>
+    <li>📫 Can reach me at <strong>a.razinejad@gmail.com</strong></li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Connect with me
+
+<a href="https://linkedin.com/in/alirazinejad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Alireza Razinejad LinkedIn" height="30" width="40" /></a>
+
+#### Summary of who am I!
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 1.2rem;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USSDLover&layout=compact" alt="Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=USSDLover&show_icons=true" alt="Rank" />
+</div>
