@@ -5,7 +5,7 @@
 </p>
 
 <ul>
-    <li>🔭 I’m currently working on in depth concepts of web development</li>
+    <li>🔭 I’m currently looking into blockchain development</li>
     <li>💬 Ask me about Angular and TypeScript</li>
     <li>📫 Can reach me at <strong>a.razinejad@gmail.com</strong></li>
 </ul>
