@@ -1,22 +1,56 @@
-### Hi there 👋
+# Hey there, I'm Alireza! 👋 🚀
 
-<p>
-    My name is Alireza and I am passionate about programming.
-</p>
+### Senior Software Engineer & Frontend Architect
 
-<ul>
-    <li>🔭 I’m currently looking into blockchain development</li>
-    <li>💬 Ask me about Angular and TypeScript</li>
-    <li>📫 Can reach me at <strong>a.razinejad@gmail.com</strong></li>
-</ul>
+I build scalable, high-performance web applications and design resilient frontend architectures. With over a decade of experience crafting complex systems, I thrive at the intersection of robust TypeScript ecosystems and cutting-edge web technologies. Currently leveling up the future by diving deep into AI engineering and agentic workflows.
 
-#### Connect with me
+---
 
-<a href="https://linkedin.com/in/alirazinejad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Alireza Razinejad LinkedIn" height="30" width="40" /></a>
+### 🛠️ What I'm Up To
 
-#### Summary of who am I!
+*   **🚀 Current Focus:** Architeching modern frontend ecosystems and building intelligent, AI-driven applications.
+*   **🧠 Deepening Knowledge:** Expanding into AI Engineering, RAG (Retrieval-Augmented Generation), and LLM orchestration.
+*   **💬 Ask Me About:** **Angular** (Signals, NgRx, advanced state management), **React/Next.js**, **TypeScript**, and scalable frontend architecture.
+*   **📫 Get In Touch:** Drop me a line at **[a.razinejad@gmail.com](mailto:a.razinejad@gmail.com)**.
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 1.2rem;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USSDLover&layout=compact" alt="Most Used Languages" />
-    <img src="https://github-readme-stats.vercel.app/api?username=USSDLover&show_icons=true" alt="Rank" />
+---
+
+### 🧰 Tech Stack & Tools
+
+<table>
+  <tr>
+    <td align="center" width="20%"><strong>Languages</strong></td>
+    <td>TypeScript, JavaScript (ES6+), HTML5/CSS3</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Frameworks & Libs</strong></td>
+    <td>Angular, React, Next.js, RxJS, NgRx, Zustand</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>AI & Next-Gen</strong></td>
+    <td>LLM Integration, RAG Workflows, Cursor, Ollama</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Tools & Environment</strong></td>
+    <td>Git, Docker, Webpack, Vite, Nx Monorepos</td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 1.5rem; margin-top: 1rem;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USSDLover&layout=compact&theme=dark" alt="Most Used Languages" height="165px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=USSDLover&show_icons=true&theme=dark" alt="GitHub Stats" height="165px" />
 </div>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/alirazinejad" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alireza Razinejad LinkedIn" height="30" width="40" />
+  </a>
+</p>
