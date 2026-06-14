@@ -1,56 +1,76 @@
-# Hey there, I'm Alireza! 👋 🚀
+# ⚡ SYSTEM ONLINE: HELLO, WORLD! I'M ALIREZA 👋
 
-### Senior Software Engineer & Frontend Architect
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=USSDLover&color=00ff66&style=flat-square&label=ACCESS+LOGS" alt="Profile Views" />
+</p>
 
-I build scalable, high-performance web applications and design resilient frontend architectures. With over a decade of experience crafting complex systems, I thrive at the intersection of robust TypeScript ecosystems and cutting-edge web technologies. Currently leveling up the future by diving deep into AI engineering and agentic workflows.
+### 🛡️ Software & AI Systems Engineer | Cybersecurity Enthusiast | Frontend Architect
 
----
-
-### 🛠️ What I'm Up To
-
-*   **🚀 Current Focus:** Architeching modern frontend ecosystems and building intelligent, AI-driven applications.
-*   **🧠 Deepening Knowledge:** Expanding into AI Engineering, RAG (Retrieval-Augmented Generation), and LLM orchestration.
-*   **💬 Ask Me About:** **Angular** (Signals, NgRx, advanced state management), **React/Next.js**, **TypeScript**, and scalable frontend architecture.
-*   **📫 Get In Touch:** Drop me a line at **[a.razinejad@gmail.com](mailto:a.razinejad@gmail.com)**.
+I build scalable, secure-by-design systems and intelligent AI orchestration frameworks. With over a decade of technical expertise, I merge robust backend architecture, AI agentic workflows, and frontend security best practices. Currently deeply passionate and actively diving into the realms of **Cybersecurity**—securing codebases, analyzing vulnerabilities, and hardening environments.
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🚀 Latest Deployments & Focus
 
-<table>
-  <tr>
-    <td align="center" width="20%"><strong>Languages</strong></td>
-    <td>TypeScript, JavaScript (ES6+), HTML5/CSS3</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Frameworks & Libs</strong></td>
-    <td>Angular, React, Next.js, RxJS, NgRx, Zustand</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>AI & Next-Gen</strong></td>
-    <td>LLM Integration, RAG Workflows, Cursor, Ollama</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Tools & Environment</strong></td>
-    <td>Git, Docker, Webpack, Vite, Nx Monorepos</td>
-  </tr>
-</table>
+*   **🛡️ Cybersecurity Focus:** Deep-diving into penetration testing, secure coding practices, application security (AppSec), and threat modeling.
+*   **🤖 AI & RAG:** Building local LLM workflows, Retrieval-Augmented Generation (RAG) systems, and agentic AI integrations.
+*   **🏗️ Systems & Backends:** Crafting fast, concurrent, and scalable services utilizing Go, Python, and Java.
+*   **📐 Frontend Architecture:** Designing enterprise-grade, state-managed ecosystems with Angular (Signals/NgRx) and React/Next.js.
+*   **📫 Secure Signal:** Ping me at **[a.razinejad@gmail.com](mailto:a.razinejad@gmail.com)** or find me on **[LinkedIn](https://linkedin.com/in/alirazinejad)**.
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ The Tech Arsenal
+
+<p align="left">
+  <!-- Security -->
+  <img src="https://img.shields.io/badge/Cybersecurity-🛡️-00ff66?style=for-the-badge" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/AppSec-🔒-red?style=for-the-badge" alt="Application Security" />
+</p>
+
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</p>
+
+<p align="left">
+  <!-- AI / LLMs -->
+  <img src="https://img.shields.io/badge/AI_Engineering-🧠-purple?style=for-the-badge" alt="AI Engineering" />
+  <img src="https://img.shields.io/badge/RAG_Workflows-⚡-ff69b4?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/Ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+</p>
+
+<p align="left">
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+</p>
+
+---
+
+### 📊 System Diagnostics
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 1.5rem; margin-top: 1rem;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USSDLover&layout=compact&theme=dark" alt="Most Used Languages" height="165px" />
-    <img src="https://github-readme-stats.vercel.app/api?username=USSDLover&show_icons=true&theme=dark" alt="GitHub Stats" height="165px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USSDLover&layout=compact&theme=tokyonight" alt="Most Used Languages" height="165px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=USSDLover&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165px" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USSDLover&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Secure Connect Matrix
 
 <p align="left">
   <a href="https://linkedin.com/in/alirazinejad" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alireza Razinejad LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
