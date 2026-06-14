@@ -40,15 +40,28 @@ I build highly scalable, secure-by-design systems and intelligent orchestration 
   <img src="https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
 </p>
 
-#### 📐 Frontend Architecture
+#### 📐 Frontend & Framework Ecosystems
 <p align="left">
+  <!-- Angular Ecosystem -->
   <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/Signals_State-⚡-ff69b4?style=for-the-badge" alt="Signals" />
   <img src="https://img.shields.io/badge/NgRx-%23BA2BD2.svg?style=for-the-badge&logo=ngrx&logoColor=white" alt="NgRx" />
+  <img src="https://img.shields.io/badge/RxJS-%23B52E7B.svg?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS" />
+  <img src="https://img.shields.io/badge/Angular_Material-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Material" />
+</p>
+
+<p align="left">
+  <!-- React Ecosystem -->
   <img src="https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Redux_/_Toolkit-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
+  <img src="https://img.shields.io/badge/Zustand-🐻-orange?style=for-the-badge" alt="Zustand" />
+  <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />
   <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" />
-  <img src="https://img.shields.io/badge/RxJS-%23B52E7B.svg?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS" />
+</p>
+
+<p align="left">
+  <!-- UI & Orchestration -->
   <img src="https://img.shields.io/badge/Micro--Frontends-🧩-blue?style=for-the-badge" alt="Micro-frontends" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
   <img src="https://img.shields.io/badge/Storybook-%23FF4785.svg?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook" />
