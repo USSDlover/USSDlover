@@ -12,6 +12,7 @@ I build scalable, secure-by-design systems and intelligent AI orchestration fram
 
 ### 🚀 Latest Deployments & Focus
 
+*   **🌐 Portfolio:** Explore my work and projects at **[alireza.dev](https://alrazi.netlify.app)** *(Update this link with your actual domain!)*
 *   **🛡️ Cybersecurity Focus:** Deep-diving into penetration testing, secure coding practices, application security (AppSec), and threat modeling.
 *   **🤖 AI & RAG:** Building local LLM workflows, Retrieval-Augmented Generation (RAG) systems, and agentic AI integrations.
 *   **🏗️ Systems & Backends:** Crafting fast, concurrent, and scalable services utilizing Go, Python, and Java.
@@ -70,6 +71,9 @@ I build scalable, secure-by-design systems and intelligent AI orchestration fram
 ### 🌐 Secure Connect Matrix
 
 <p align="left">
+  <a href="https://alrazi.netlify.app" target="blank">
+    <img src="https://img.shields.io/badge/Personal_Website-🌐-00ff66?style=for-the-badge" alt="Website" />
+  </a>
   <a href="https://linkedin.com/in/alirazinejad" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
